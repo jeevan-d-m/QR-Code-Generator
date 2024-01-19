@@ -12,6 +12,6 @@ Whether you need to share text, URLs, contact information, or other data types, 
 
 ## Installation
 
-npm install qr-image
-npm install inquirer
-npm install fs
+1.npm install qr-image
+2.npm install inquirer
+3.npm install fs
